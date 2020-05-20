@@ -40,7 +40,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 The original description of the dataset can be found at the below link. 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-The run_analysis.R script does the data preparation and then the 5 steps as told in the course project’s definition.
+The run_analysis.R script does the data preparation and then the 5 steps as told in the course project’s definition - 
 1. Download the dataset - 
    1. Dataset downloaded and extracted under the folder called UCI HAR Dataset
 
